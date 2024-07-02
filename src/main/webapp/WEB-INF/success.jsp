@@ -9,6 +9,6 @@
 </head>
 <body>
 	<h1>Login Successful</h1>
-	<p>Welcome to BAGIC!</p>
+	<p>Welcome to BAGIC demo!</p>
 </body>
 </html>
