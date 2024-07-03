@@ -9,6 +9,6 @@
 </head>
 <body>
 	<h1>Login Successful</h1>
-	<p>Welcome to BAGIC demo!</p>
+	<p>Welcome to Clover infotech!</p>
 </body>
 </html>
