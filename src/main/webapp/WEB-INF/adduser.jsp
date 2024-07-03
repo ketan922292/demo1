@@ -10,7 +10,7 @@
 <body>
 	<h2>Add User</h2>
 	<form action="addUser" method="post">
-		<label for="username">Username:</label><br> <input type="text"
+		<label for="username">Username2:</label><br> <input type="text"
 			id="username" name="username"><br> <label for="password">Password:</label><br>
 		<input type="password" id="password" name="password"><br>
 		<input type="submit" value="Submit">
