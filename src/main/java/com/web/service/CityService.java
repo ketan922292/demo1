@@ -7,7 +7,7 @@ public class CityService {
 
 	public String getCities() {
 		System.out.println("99999999999999999999999999");
-		return "Mumbai,pune,thane,new-city,panvel";
+		return "Mumbai,pune,thane,new-city,panvel,mumbai";
 	}
 	
 	
