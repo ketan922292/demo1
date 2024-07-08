@@ -9,6 +9,6 @@
 </head>
 <body>
 	<h1>Login Failed</h1>
-	<p>Please enter valid username and password and try again sometime latter...cccsss....</p>
+	<p>Please enter valid username and password and try again sometime latter...cccsss.cc...</p>
 </body>
 </html>
