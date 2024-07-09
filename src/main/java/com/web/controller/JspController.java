@@ -1,16 +1,16 @@
 package com.web.controller;
 
-import javax.annotation.PostConstruct;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.ResponseBody;
 
 import com.web.model.AppUser;
 import com.web.repo.UserRepository;
+
+import jakarta.annotation.PostConstruct;
 
 @Controller
 public class JspController {
