@@ -17,6 +17,7 @@ public class CityController {
 	
 	@GetMapping("/cities")
 	public String cities() {
+		System.out.println( "demo" );
 		return ser.cities();
 	}
 	

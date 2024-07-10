@@ -14,6 +14,7 @@ public class CountoryController {
 	
 	@GetMapping("/countries")
 	public String cities() {
+		System.out.println("demo");
 		return ser.countries();
 	}
 

@@ -7,7 +7,7 @@ public class CityService {
 
 	
 	public String cities() {
-		return "mumbai";
+		return "mumbai,pune";
 	}
 
 	

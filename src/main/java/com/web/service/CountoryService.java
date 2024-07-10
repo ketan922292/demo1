@@ -7,7 +7,7 @@ public class CountoryService {
 	
 	
 	public String countries() {
-		return "India";
+		return "India,US";
 	}
 
 }
