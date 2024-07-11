@@ -7,6 +7,7 @@ public class CityService {
 
 	GG g= new GG();
 	FF f= new FF();
+	JJ j = new JJ();
 	public String cities() {
 		return "mumbai,pune";
 	}
