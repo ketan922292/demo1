@@ -1,5 +1,5 @@
 package com.web.service;
 
-public class EE {
+public class GG {
 
 }
