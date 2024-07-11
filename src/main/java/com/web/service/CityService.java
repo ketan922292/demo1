@@ -5,8 +5,8 @@ import org.springframework.stereotype.Service;
 @Service
 public class CityService {
 
-	A a= new A();
-	D d = new D();
+	AA a= new AA();
+	DD d = new DD();
 	public String cities() {
 		return "mumbai,pune";
 	}
