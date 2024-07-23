@@ -8,7 +8,7 @@ public class CityService {
 	QQ q = new QQ ();
 	NN n = new NN();
 	public String cities() {
-		return "mumbai,pune,mumbai";
+		return "mumbai,pune,mumbai,pune";
 	}
 
 	
