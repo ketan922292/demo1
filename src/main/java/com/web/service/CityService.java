@@ -9,7 +9,7 @@ public class CityService {
 	NN n = new NN();
 	WWW w = new WWW ();
 	public String cities() {
-		return "mumbai,pune,mumbai,pune,mumbai,pune,mumbai,pune,mumbai";
+		return "mumbai,pune,mumbai,pune,mumbai,pune,mumbai,pune,mumbai,pune";
 	}
 
 	
